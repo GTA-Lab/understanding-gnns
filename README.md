@@ -5,3 +5,7 @@ Official repository for our Distill.pub article on graph neural networks at http
 * Ameya Daigavane
 * Balaraman Ravindran
 * Gaurav Aggarwal
+
+## Publish
+
+- ghp-import -n -p -f ./public
